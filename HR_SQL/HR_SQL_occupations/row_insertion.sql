@@ -1,0 +1,21 @@
+-- *** ROW INSERTION ***
+insert all
+    into OCCUPATIONS values ('Ashley', 'Professor')
+    into OCCUPATIONS values ('Samantha', 'Actor')
+    into OCCUPATIONS values ('Julia', 'Doctor')
+    into OCCUPATIONS values ('Britney', 'Professor')
+    into OCCUPATIONS values ('Maria', 'Professor')
+    into OCCUPATIONS values ('Meera', 'Professor')
+    into OCCUPATIONS values ('Priya', 'Doctor')
+    into OCCUPATIONS values ('Priyanka', 'Professor')
+    into OCCUPATIONS values ('Jennifer', 'Actor')
+    into OCCUPATIONS values ('Ketty', 'Actor')
+    into OCCUPATIONS values ('Belvet', 'Professor')
+    into OCCUPATIONS values ('Naomi', 'Professor')
+    into OCCUPATIONS values ('Jane', 'Singer')
+    into OCCUPATIONS values ('Jenny', 'Singer')
+    into OCCUPATIONS values ('Kristeen', 'Singer')
+    into OCCUPATIONS values ('Christeen', 'Singer')
+    into OCCUPATIONS values ('Eve', 'Actor')
+    into OCCUPATIONS values ('Aamina', 'Doctor')
+select * from dual;
